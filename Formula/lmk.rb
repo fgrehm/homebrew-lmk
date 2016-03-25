@@ -3,7 +3,7 @@ class Lmk < Formula
   homepage "https://github.com/fgrehm/lmk"
   url "https://github.com/fgrehm/lmk/releases/download/v0.1.0/darwin_amd64"
   version "1.0.0"
-  sha256 "6de2152ef3a2d4e6c1976e6d6b99635919fd94954d3f38280333425ce2245753"
+  sha256 "3c8769ee5dfaa40051593db284db1fb15dfd2134d481ab4ec02ebae0a931aae1"
 
   bottle :unneeded
 
