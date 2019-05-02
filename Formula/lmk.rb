@@ -1,9 +1,9 @@
 class Lmk < Formula
   desc "A CLI tool to draw your attention to a terminal when a command finishes running"
   homepage "https://github.com/fgrehm/lmk"
-  url "https://github.com/fgrehm/lmk/releases/download/v0.1.0/darwin_amd64"
-  version "1.0.0"
-  sha256 "3c8769ee5dfaa40051593db284db1fb15dfd2134d481ab4ec02ebae0a931aae1"
+  url "https://github.com/fgrehm/lmk/releases/download/v0.2.0/darwin_amd64"
+  version "1.0.1"
+  sha256 "5ba03a04e5ecc61e806d90580fd86a69af4d4044a1564ac1388073d962257861"
 
   bottle :unneeded
 
